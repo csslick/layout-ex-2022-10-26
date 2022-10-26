@@ -1,1 +1,2 @@
-# layout-ex-2022-10-26
+# resonsive-template
+resonsive-template

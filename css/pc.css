@@ -1,0 +1,17 @@
+/* pc.css */
+body {
+  /* background: pink; */
+}
+
+.container {
+  max-width: 1440px;
+  outline: 2px solid red;
+  margin: 0 auto;
+  height: 100vh;
+}
+
+.info-group {
+  width: 588px;
+  outline: 1px solid #ddd;
+  height: 100%;
+}
